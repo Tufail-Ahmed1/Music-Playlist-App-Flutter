@@ -1,6 +1,13 @@
-# xyclophone
+# Music Playlist App Flutter
 
-A new Flutter project.
+You can take new ideas of this project and you can create your own beautiful UIs Music App in Flutter 
+In this project we used Widgets,Functions,UIs and so on.
+
+## ScreenShots
+<img width="255" alt="image" src="https://github.com/Tufail-Ahmed1/Music-Playlist-App-Flutter/assets/128387947/98fba322-502a-45c8-8812-49f75519a357">
+
+<img width="777" alt="image" src="https://github.com/Tufail-Ahmed1/Music-Playlist-App-Flutter/assets/128387947/6ce9c8cc-c68e-450f-8e7e-98590ef6f2d0">
+
 
 ## Getting Started
 
